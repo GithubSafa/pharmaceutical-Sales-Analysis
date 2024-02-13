@@ -62,7 +62,7 @@ The dataset is sourced from each distributor. It contains Pharmaceutical Manufac
 ***Table-2 : Data Definition***
 
 
-*** Proposed Solution***
+## *** Proposed Solution***
 
 ### Exploratory Data Analysis (EDA) [pandas]
 To understand, be familiar with and check the sanity of the given data, the first step is EDA. This project's initial data exploration has been carried out using the `pandas` python package. Here, in general, we are checking... 
