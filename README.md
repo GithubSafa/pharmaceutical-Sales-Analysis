@@ -61,15 +61,8 @@ The dataset is sourced from each distributor. It contains Pharmaceutical Manufac
 |Sales Team|Sale rep's team|
 ***Table-2 : Data Definition***
 
-## Solution Approach 
 
-|Requirement ID|Solution ID|Proposed Solution|
-|:--|:---|:--|
-|DM-DA01-REQ-1|DM-DA01-SOL-1|An `Executive Summary` PowerBI dashboard/report page will be built to show a high-level overview of sales data in interactive visuals per the requirements. A `year` filter will be provided to filter the data by a particular or combination of years |
-|DM-DA01-REQ-2|DM-DA01-SOL-2|A `Distributor & Customer Analysis` PowerBI dashboard/report page will be provided with interactive visuals showing data as per the requirement|
-|DM-DA01-REQ-3|DM-DA01-SOL-3|A `Sales Team Performance` PowerBI dashboard/report page will be provided with interactive visuals showing data as per the requirement. `year` and `month` slicers will be provided to slice/filter data by year and/or months|
-
-***Table-3 : Proposed Solution***
+*** Proposed Solution***
 
 ### Exploratory Data Analysis (EDA) [pandas]
 To understand, be familiar with and check the sanity of the given data, the first step is EDA. This project's initial data exploration has been carried out using the `pandas` python package. Here, in general, we are checking... 
